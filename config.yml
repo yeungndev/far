@@ -1,0 +1,6 @@
+name: Folk Art Rajasthan
+url: 'https://yeungndev.github.io'
+description: 'Folk Art Rajasthan'
+
+markdown: kramdown
+exclude: [Gemfile, Gemfile.lock, README.md]
