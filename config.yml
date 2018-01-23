@@ -1,5 +1,5 @@
 name: Folk Art Rajasthan
-url: 'https://yeungndev.github.io'
+baseurl: /far
 description: 'Folk Art Rajasthan'
 
 markdown: kramdown
