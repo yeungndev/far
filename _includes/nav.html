@@ -1,6 +1,7 @@
 <nav>
   <ul>
-    <li><a href="{{site.baseurl}}/newsletter.html">Newsletter</a></li>
-    <li><a href="{{site.baseurl}}/education.html">Education</a></li>
+    <li><a href="{{site.baseurl}}/newsletter.html/" class="{% if page.url == '/newsletter.html' %}current{% endif %}">Newsletter</a></li>
+    <li><a href="{{site.baseurl}}/changemakers.html" class="{% if page.url == '/changemakers.html' %}current{% endif %}">Changemakers</a></li>
+    <li><a href="{{site.baseurl}}/education.html" class="{% if page.url == '/education.html' %}current{% endif %}">Education</a></li>
   </ul>
 </nav>
